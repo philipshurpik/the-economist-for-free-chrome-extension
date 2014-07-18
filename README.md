@@ -15,3 +15,7 @@ It's pretty easy to install extension from this sources:
 3. Check Developer mode checkbox
 4. Press Load unpacked extension button and select folder with this files
 5. Check if it is enabled and that's all!
+
+WARNING!
+YOU CAN USE THIS EXTENSION ONLY FOR EDUCATIONAL PURPOSES!
+AND YOU SHOULD BUY SUBSCRIPTION IF YOU LIKE TO READ THE ECONOMIST!
